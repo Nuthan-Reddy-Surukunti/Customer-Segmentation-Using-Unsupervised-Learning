@@ -89,8 +89,8 @@ Git
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/customer-segmentation-ml.git
-   cd customer-segmentation-ml
+   git clone https://github.com/Nuthan-Reddy-Surukunti/Customer-Segmentation-Using-Unsupervised-Learning.git
+   cd Customer-Segmentation-Using-Unsupervised-Learning
    ```
 
 2. **Install dependencies**
@@ -160,7 +160,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📞 Contact
 
 **Author**: Nuthan Reddy  
-**Project Link**: [Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation-ml)
+**Project Link**: [Customer Segmentation Analysis](https://github.com/Nuthan-Reddy-Surukunti/Customer-Segmentation-Using-Unsupervised-Learning)
 
 ---
 
